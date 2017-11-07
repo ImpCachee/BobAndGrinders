@@ -37,7 +37,7 @@ public class BoxPickingDemo {
     int width = 1200;
     int height = 800;
     boolean windowed = true;
-    //test
+    //test commit
 
     float mouseX, mouseY;
     boolean[] keyDown = new boolean[GLFW.GLFW_KEY_LAST + 1];
